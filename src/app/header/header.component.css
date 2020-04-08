@@ -1,0 +1,26 @@
+.nav-link {
+    margin-top: 5%;
+    color: black;
+    line-height: 24px;
+    font-size: 13px;
+}
+
+.gb_1e {
+    width: 24px;
+    height: 24px;
+    color: #5f6368;
+    opacity: 1;
+}
+
+.my-nav-style {
+    padding: 10px
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.google-icon-style:hover {
+    background-color: #f0f0f0;
+    border-radius: 100%;
+  }
