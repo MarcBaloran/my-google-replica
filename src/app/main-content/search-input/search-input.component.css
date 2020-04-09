@@ -1,0 +1,23 @@
+.input-group-text {
+    background-color: #ffffff;
+}
+
+.icon-left {
+    border-right: none;
+    border-radius: 50%;
+}
+
+.icon-right {
+    border-left: none;
+    border-radius: 60%;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Google_mic.svg/1200px-Google_mic.svg.png) no-repeat center;
+    background-size: 12px 16px;
+}
+
+.search-input {
+    border-right: none;
+    border-left: none;
+    box-shadow: 0 2px #e7e7e7, 0 -2px #e7e7e7;
+    height: 3em;
+    width: 100%;
+}
