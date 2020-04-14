@@ -16,3 +16,15 @@ img {
     left: 516px; 
     top: 162px;
 }
+
+.search-container {
+    margin-top: 5%;
+}
+
+.shortcut-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-column-start: left;
+    margin: 5% auto 0;
+    width: 580px;
+}
